@@ -1,6 +1,6 @@
 package Escenario3;
 
-public class MainEscenario3 {
+public class Main {
     public static void main(String[] args) {
         ChatMediator chat = new ConcreteChatMediator();
 

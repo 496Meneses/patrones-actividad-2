@@ -6,7 +6,7 @@ import Escenario2.TiposDeNotificacion.Confirmacion;
 import Escenario2.TiposDeNotificacion.Mensaje;
 import Escenario2.TiposDeNotificacion.Notificacion;
 
-public class MainEscenario2 {
+public class Main {
     public static void main(String[] args) {
         Dispositivo web = new Web();
         Dispositivo movil = new Movil();
