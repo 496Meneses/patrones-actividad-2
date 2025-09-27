@@ -1,5 +1,12 @@
 # patrones-actividad-2
+JDK 17
 
+Integrantes:
+
+Jorge Luis Bula Gomez
+Leonardo Motta Vargas
+Andrés Alejandro Atehortua Parra
+Andrés Camilo Meneses Ortega
 
 1.Escenario
 Tipo Patron: Creacional
