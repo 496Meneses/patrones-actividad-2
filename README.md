@@ -18,3 +18,9 @@ Tipo Patrón: Estructural
 Patrón: Patrón Bridge
 Justificación: El patrón bridge separa muy bien la jerarquía de clases que hay entre Tipos de dispositivos y tipos de notificaciones, Evitando crear muchas clases como resultado de las combinaciones entre las dos jerarquías.
 
+
+3.Escenario
+Tipo Patrón: Comportamiento
+Patrón: Patrón Mediador
+Justificación: El patrón mediador es muy útil en estos casos, donde multiples objetos necesitan interacturar entre si, permitiendo centralizar la comunicacion y evitar el acoplamiento entre ellos. 
+
