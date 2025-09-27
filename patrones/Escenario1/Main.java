@@ -3,7 +3,6 @@ package Escenario1;
 public class Main {
 
     public static void main(String[] args) {
-        //Implementación con clase tipo director
         AutomovilBuilder builder= new AutomovilBuilder();
         DirectorBuilder director=new DirectorBuilder();
         director.makeAuto(builder);

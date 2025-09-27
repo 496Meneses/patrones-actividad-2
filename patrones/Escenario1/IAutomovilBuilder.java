@@ -1,10 +1,10 @@
 package Escenario1;
 
 public interface IAutomovilBuilder {
-    public void buildEngine(String engine);
-    public void paintColor(String color);
-    public void addSoundSystem(String sys);
-    public void addGps(boolean gps);
-    public void addTires(int tires);
-    public Automovil buildAuto();
+    void buildEngine(String engine);
+    void paintColor(String color);
+    void addSoundSystem(String sys);
+    void addGps(boolean gps);
+    void addTires(int tires);
+    Automovil buildAuto();
 }
