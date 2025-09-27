@@ -1,4 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
+package escenario1;
 
 public interface IAutomovilBuilder {
     public void buildEngine(String engine);

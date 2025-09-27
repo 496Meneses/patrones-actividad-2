@@ -1,5 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
-
+package escenario1;
 public class Main {
 
     public static void main(String[] args) {

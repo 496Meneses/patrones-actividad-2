@@ -1,5 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
-
+package escenario1;
 public class DirectorBuilder {
     public void makeAuto(AutomovilBuilder builder){
         builder.buildEngine("V8");
