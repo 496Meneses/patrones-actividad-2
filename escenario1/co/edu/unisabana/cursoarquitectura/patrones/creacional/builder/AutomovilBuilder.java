@@ -4,10 +4,7 @@ public class AutomovilBuilder implements IAutomovilBuilder {
 private Automovil auto;
 
     public AutomovilBuilder() {
-    }
-    @Override
-    public void instance() {
-        auto = new Automovil();
+       auto= new Automovil();
     }
     @Override
     public void buildEngine(String engine) {

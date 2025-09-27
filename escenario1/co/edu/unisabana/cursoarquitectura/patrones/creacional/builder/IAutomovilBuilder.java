@@ -6,6 +6,5 @@ public interface IAutomovilBuilder {
     public void addSoundSystem(String sys);
     public void addGps(boolean gps);
     public void addTires(int tires);
-    void instance();
     public Automovil buildAuto();
 }
