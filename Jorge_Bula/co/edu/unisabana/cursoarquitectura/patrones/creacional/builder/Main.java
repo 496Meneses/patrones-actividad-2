@@ -1,4 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder.patrones.creacional.builder;
+package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
 
 public class Main {
 
@@ -14,14 +14,15 @@ public class Main {
         System.out.println("Auto creado:"+auto);
 
         //Implementación con clase tipo director
-       /* patrones.escenario1.AutomovilBuilder builder= new patrones.escenario1.AutomovilBuilder();
-        patrones.escenario1.DirectorBuilder director=new patrones.escenario1.DirectorBuilder();
+      /* AutomovilBuilder builder= new AutomovilBuilder();
+        DirectorBuilder director=new DirectorBuilder();
         director.makeAuto(builder);
-        patrones.escenario1.Automovil auto= builder.buildAuto();
+        director.instance();
         director.makeCamioneta(builder);
-        patrones.escenario1.Automovil camioneta= builder.buildAuto();
+        Automovil auto= builder.buildAuto();
+        Automovil camioneta= builder.buildAuto();
         System.out.println("Auto creado:"+auto);
-        System.out.println("Camioneta creado:"+camioneta);*/
+        //System.out.println("Camioneta creado:"+camioneta);*/
 
     }
 }

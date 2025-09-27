@@ -1,4 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder.patrones.creacional.builder;
+package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
 
 public class DirectorBuilder {
     public void makeAuto(AutomovilBuilder builder){
