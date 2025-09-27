@@ -24,3 +24,6 @@ Tipo Patrón: Comportamiento
 Patrón: Patrón Mediador
 Justificación: El patrón mediador es muy útil en estos casos, donde multiples objetos necesitan interacturar entre si, permitiendo centralizar la comunicacion y evitar el acoplamiento entre ellos. 
 
+
+Nota: Los diagramas de cada escenario estan en la carpeta UML.
+
