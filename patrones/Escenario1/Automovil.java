@@ -1,4 +1,4 @@
-package co.edu.unisabana.cursoarquitectura.patrones.creacional.builder;
+package Escenario1;
 
 public class Automovil {
 
@@ -14,7 +14,7 @@ public class Automovil {
 
     @Override
     public String toString() {
-        return "patrones.escenario1.Automovil{" +
+        return "patrones.escenario1.scenario1.Automovil{" +
                 "engine='" + engine + '\'' +
                 ", color='" + color + '\'' +
                 ", tires=" + tires +
