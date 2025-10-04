@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7723b7e-9505-4f38-8fb9-b0d9d2b2efe0" name="Changes" comment="Cambios para agregar los tres escenarios en base a los digramas UML">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/Escenario1.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/Escenario2.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/Escenario3.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/PATRONES_DISEÑO_ARQ_SOFTWARE.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones-actividad-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario1/Automovil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario1/AutomovilBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario1/DirectorBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario1/IAutomovilBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeDispositivos/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeDispositivos/Escritorio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeDispositivos/Movil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeDispositivos/Web.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeNotificacion/Advertencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeNotificacion/Alerta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeNotificacion/Confirmacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeNotificacion/Mensaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario2/TiposDeNotificacion/Notificacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario3/ChatMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario3/ConcreteChatMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patrones/Escenario3/Usuario.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33C3E61hfxr82E59nggOoJQMn7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.src.Escenario2.Main.executor": "Run",
+    "Application.src.Escenario3.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "actividad-fallos-y-resiliencia",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/andres.atehortua/Desktop/Activity/repo/patrones-actividad-2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ActividadPatrones/src/Escenario3" />
+      <recent name="$PROJECT_DIR$/ActividadPatrones/src/Escenario1" />
+      <recent name="$PROJECT_DIR$/ActividadPatrones/src/Escenario2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.Escenario3" />
+      <recent name="src.Escenario2" />
+      <recent name="src.Escenario2.abstraccion" />
+      <recent name="src.Escenario1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.src.Escenario3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Escenario1.Main" />
+      <module name="patrones-actividad-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Escenario1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.Escenario2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Escenario2.Main" />
+      <module name="patrones-actividad-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Escenario2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.Escenario3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Escenario3.Main" />
+      <module name="patrones-actividad-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Escenario3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="patrones-actividad-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="patrones-actividad-2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.src.Escenario3.Main" />
+        <item itemvalue="Application.src.Escenario2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7723b7e-9505-4f38-8fb9-b0d9d2b2efe0" name="Changes" comment="" />
+      <created>1758807111939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758807111939</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Cambios para agregar los tres escenarios en base a los digramas UML">
+      <option name="closed" value="true" />
+      <created>1758822580278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758822580278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios para agregar los tres escenarios en base a los digramas UML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios para agregar los tres escenarios en base a los digramas UML" />
+  </component>
+</project>

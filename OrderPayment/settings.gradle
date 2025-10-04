@@ -1,0 +1,2 @@
+rootProject.name = 'OrderPayment'
+include 'order', 'payment'
